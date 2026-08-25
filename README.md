@@ -37,9 +37,9 @@
 | | |
 |:--|:--|
 | **[nepal-oita-community](https://github.com/SureshSurkheti/nepal-oita-community)** | Live community site for Nepalis in Oita and Beppu — events, notices and local guidance. Next.js and TypeScript, with the data layer written as PostgreSQL procedures rather than pushed into the app. → **[nepaloitacommunity.com](https://nepaloitacommunity.com)** |
-| **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. |
+| **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
+| **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Where I write up what I'm building. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
 | **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A local MCP server that exposes Ollama models to MCP-speaking clients, so the model runs on my own machine instead of behind an API. |
-| **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Where I write up what I'm building. |
 | **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Storefront built in Nuxt — product listing, cart and checkout flow, put together while learning the framework. |
 | **[cinemate](https://github.com/SureshSurkheti/cinemate)** | Film browser in Vue, built against a public movie API to practise data fetching and state. |
 | **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | Currency converter in Nuxt with live exchange rates. |
