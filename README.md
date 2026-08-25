@@ -40,7 +40,9 @@
 | **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. |
 | **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A local MCP server that exposes Ollama models to MCP-speaking clients, so the model runs on my own machine instead of behind an API. |
 | **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Where I write up what I'm building. |
-| **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** · **[cinemate](https://github.com/SureshSurkheti/cinemate)** · **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | Nuxt and Vue builds from picking up the stack — a storefront, a film browser, and a currency converter. |
+| **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Storefront built in Nuxt — product listing, cart and checkout flow, put together while learning the framework. |
+| **[cinemate](https://github.com/SureshSurkheti/cinemate)** | Film browser in Vue, built against a public movie API to practise data fetching and state. |
+| **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | Currency converter in Nuxt with live exchange rates. |
 
 <sub>→ everything else in the <a href="https://github.com/SureshSurkheti?tab=repositories">repositories</a> tab</sub>
 
@@ -92,8 +94,10 @@ BE in Information Technology, Everest Engineering College, Pokhara University.
 
 ### Now
 
-- **Building** — Nepal–Oita Community, and my portfolio at sureshsurkheti.com
-- **Learning** — Svelte, and MCP tooling around locally-run models
+- **Building** — the [Nepal–Oita Community](https://nepaloitacommunity.com) website
+- **At work** — municipal 商品券 (*shōhinken*) gift-voucher platforms at OEC
+- **Learning** — AWS in depth: which service to reach for, and how to deploy onto
+  it properly. Terraform and Docker past the basics.
 - **Open to** — collaboration and contract work. Reach out any time.
 
 <!--
