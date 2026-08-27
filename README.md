@@ -26,9 +26,28 @@
 | **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
 | **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Travel writing about Kyushu — live, and still growing. → **[blog.sureshsurkheti.com](https://blog.sureshsurkheti.com)** |
 | **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A ReAct agent running entirely on a local Ollama model, calling four MCP tool servers I wrote — weather, math, calendar and translator. LangGraph with the LangChain MCP adapters; no hosted API involved. |
-| **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Storefront built in Nuxt — product listing, cart and checkout flow, put together while learning the framework. |
-| **[cinemate](https://github.com/SureshSurkheti/cinemate)** | Film browser in Vue, built against a public movie API to practise data fetching and state. |
-| **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | Currency converter in Nuxt with live exchange rates. |
+| **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Nuxt storefront taken all the way through — register, log in, browse, search, cart, checkout and Stripe payment intents, plus a seller listing flow. Prisma schema with migrations and seed data. |
+| **[cinemate](https://github.com/SureshSurkheti/cinemate)** | Nuxt and TypeScript film browser — now playing, popular, top rated, upcoming and search, each behind its own server API route so the API key never reaches the client. |
+| **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | A Nuxt sandbox worked through one concept at a time — server routes, middleware, full REST CRUD, dynamic params, composable state and error handling. |
+
+<details>
+<summary><b>Earlier work</b> — nine more repositories, mostly from learning</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **[randoms](https://github.com/SureshSurkheti/randoms)** | A mock REST API served from Nuxt server routes — posts, products and celebrities with full CRUD — with its own documentation site built on Nuxt Content. |
+| **[Help-App](https://github.com/SureshSurkheti/Help-App)** | React Native (Expo) emergency assistance app — login, live geolocation, Google Places search, patient details and push notifications, on Firebase. |
+| **[LiveLocation](https://github.com/SureshSurkheti/LiveLocation)** | React Native (Expo) experiment in continuous live location tracking, including patched native modules. |
+| **[RNLEARN](https://github.com/SureshSurkheti/RNLEARN)** | React Native practice — rebuilding a Netflix-style card component while learning the framework's layout model. |
+| **[REST-API-STORAGE](https://github.com/SureshSurkheti/REST-API-STORAGE)** | Django REST Framework practice API — models, serializers, viewsets and routed endpoints. One of my first backend projects. |
+| **[Blog](https://github.com/SureshSurkheti/Blog)** | A static multi-page blog layout in plain HTML and CSS, from early front-end practice. |
+| **[invoice](https://github.com/SureshSurkheti/invoice)** | A static invoice interface — login screen and invoice layout, in HTML and CSS. |
+| **[my-music](https://github.com/SureshSurkheti/my-music)** | A single-page HTML music player, written while getting to grips with the HTML5 audio element. |
+| **[play-music](https://github.com/SureshSurkheti/play-music)** | A second single-page HTML audio player experiment, from the same period. |
+
+</details>
 
 <sub>→ everything else in the <a href="https://github.com/SureshSurkheti?tab=repositories">repositories</a> tab</sub>
 
