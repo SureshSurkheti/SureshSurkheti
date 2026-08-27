@@ -1,18 +1,3 @@
-<!--
-================================================================
-  GitHub profile README — for the repo SureshSurkheti/SureshSurkheti
-
-  To publish:
-    1. Copy this file there as README.md
-    2. Copy banner-dark.png and banner-light.png to the SAME folder
-       (they are in github-profile-assets/ in the portfolio repo)
-
-  The banner swaps automatically with the viewer's GitHub theme.
-  The portfolio link stays dead until sureshsurkheti.com has DNS
-  pointed at Vercel — everything else here is live.
-================================================================
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
@@ -26,6 +11,7 @@
 
 <p align="center">
   <a href="https://sureshsurkheti.com"><img src="https://img.shields.io/badge/Portfolio-sureshsurkheti.com-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://blog.sureshsurkheti.com"><img src="https://img.shields.io/badge/Blog-blog.sureshsurkheti.com-6D28D9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/sureshsurkheti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:surkhetisuresh123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -39,7 +25,7 @@
 | **[nepal-oita-community](https://github.com/SureshSurkheti/nepal-oita-community)** | Live community site for Nepalis in Oita and Beppu — events, notices and local guidance. Next.js and TypeScript, with the data layer written as PostgreSQL procedures rather than pushed into the app. → **[nepaloitacommunity.com](https://nepaloitacommunity.com)** |
 | **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
 | **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Travel writing about Kyushu — live, and still growing. → **[blog.sureshsurkheti.com](https://blog.sureshsurkheti.com)** |
-| **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A local MCP server that exposes Ollama models to MCP-speaking clients, so the model runs on my own machine instead of behind an API. |
+| **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A ReAct agent running entirely on a local Ollama model, calling four MCP tool servers I wrote — weather, math, calendar and translator. LangGraph with the LangChain MCP adapters; no hosted API involved. |
 | **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Storefront built in Nuxt — product listing, cart and checkout flow, put together while learning the framework. |
 | **[cinemate](https://github.com/SureshSurkheti/cinemate)** | Film browser in Vue, built against a public movie API to practise data fetching and state. |
 | **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | Currency converter in Nuxt with live exchange rates. |
