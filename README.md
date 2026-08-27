@@ -31,7 +31,7 @@
 | **[nuxtcurrencyapp](https://github.com/SureshSurkheti/nuxtcurrencyapp)** | A Nuxt sandbox worked through one concept at a time — server routes, middleware, full REST CRUD, dynamic params, composable state and error handling. |
 
 <details>
-<summary><b>Earlier work</b> — nine more repositories, mostly from learning</summary>
+<summary><b>Earlier work</b> — seven more repositories, mostly from learning</summary>
 
 <br>
 
@@ -44,8 +44,6 @@
 | **[REST-API-STORAGE](https://github.com/SureshSurkheti/REST-API-STORAGE)** | Django REST Framework practice API — models, serializers, viewsets and routed endpoints. One of my first backend projects. |
 | **[Blog](https://github.com/SureshSurkheti/Blog)** | A static multi-page blog layout in plain HTML and CSS, from early front-end practice. |
 | **[invoice](https://github.com/SureshSurkheti/invoice)** | A static invoice interface — login screen and invoice layout, in HTML and CSS. |
-| **[my-music](https://github.com/SureshSurkheti/my-music)** | A single-page HTML music player, written while getting to grips with the HTML5 audio element. |
-| **[play-music](https://github.com/SureshSurkheti/play-music)** | A second single-page HTML audio player experiment, from the same period. |
 
 </details>
 
