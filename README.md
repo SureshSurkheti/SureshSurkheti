@@ -22,6 +22,7 @@
 
 | | |
 |:--|:--|
+| **[jlpt-practice](https://github.com/SureshSurkheti/jlpt-practice)** | Free JLPT mock exams from N5 to N1 — 148 timed papers, marked automatically, with listening audio and answer explanations. Every question opens its own vocabulary with furigana, and all twelve languages get their own URL and hreflang. → **[nihongomock.com](https://nihongomock.com)** |
 | **[nepal-oita-community](https://github.com/SureshSurkheti/nepal-oita-community)** | Live community site for Nepalis in Oita and Beppu — events, notices and local guidance. Next.js and TypeScript, with the data layer written as PostgreSQL procedures rather than pushed into the app. → **[nepaloitacommunity.com](https://nepaloitacommunity.com)** |
 | **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
 | **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Travel writing about Kyushu — live, and still growing. → **[blog.sureshsurkheti.com](https://blog.sureshsurkheti.com)** |
