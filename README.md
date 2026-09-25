@@ -102,7 +102,6 @@ BE in Information Technology, Everest Engineering College, Pokhara University.
 - **At work** — municipal 商品券 (*shōhinken*) gift-voucher platforms at OEC
 - **Learning** — AWS in depth: which service to reach for, and how to deploy onto
   it properly. Terraform and Docker past the basics.
-- **Open to** — collaboration and contract work. Reach out any time.
 
 <!--
   A github-readme-stats card used to sit at the bottom. Left out on purpose:
