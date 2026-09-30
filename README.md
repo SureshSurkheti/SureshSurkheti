@@ -22,9 +22,9 @@
 
 | | |
 |:--|:--|
-| **[jlpt-practice](https://github.com/SureshSurkheti/jlpt-practice)** | Free JLPT mock exams from N5 to N1 — 207 timed papers, marked automatically, with listening audio and answer explanations. Every question opens its own vocabulary with furigana, and all twelve languages get their own URL and hreflang. → **[nihongomock.com](https://nihongomock.com)** |
+| **[Nihongo Mock](https://nihongomock.com)** | Free JLPT mock exams from N5 to N1 — 207 timed papers, marked automatically, with listening audio and answer explanations. Every question opens its own vocabulary with furigana, and all twelve languages get their own URL and hreflang. → **[nihongomock.com](https://nihongomock.com)** |
 | **[nepal-oita-community](https://github.com/SureshSurkheti/nepal-oita-community)** | Live community site for Nepalis in Oita and Beppu — events, notices and local guidance. Next.js and TypeScript, with the data layer written as PostgreSQL procedures rather than pushed into the app. → **[nepaloitacommunity.com](https://nepaloitacommunity.com)** |
-| **[portfolio](https://github.com/SureshSurkheti/portfolio)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
+| **[portfolio](https://sureshsurkheti.com)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
 | **[my-blog](https://github.com/SureshSurkheti/my-blog)** | Django blog with Markdown posts, drafts, galleries, moderated comments, tags, search and RSS. Travel writing about Kyushu — live, and still growing. → **[blog.sureshsurkheti.com](https://blog.sureshsurkheti.com)** |
 | **[ollama-local-mcp](https://github.com/SureshSurkheti/ollama-local-mcp)** | A ReAct agent running entirely on a local Ollama model, calling four MCP tool servers I wrote — weather, math, calendar and translator. LangGraph with the LangChain MCP adapters; no hosted API involved. |
 | **[Shopiverse](https://github.com/SureshSurkheti/Shopiverse)** | Nuxt storefront taken all the way through — register, log in, browse, search, cart, checkout and Stripe payment intents, plus a seller listing flow. Prisma schema with migrations and seed data. |
@@ -87,9 +87,9 @@
 
 ### Day job
 
-Contract software engineer at **[OEC Co., Ltd.](https://www.oec.co.jp/)** in Oita, Japan — 12+ projects
-for municipalities and enterprise clients: GIS and land-regulation portals, asset management,
-citizen apps, and multi-district voucher systems. Client work is private, so most of it isn't here.
+Contract software engineer in Oita, Japan — 12+ projects for public-sector and enterprise
+clients: GIS portals, asset management, citizen apps and transaction platforms. Client work is
+private, so none of it is here.
 
 Before Japan: Django and React Native at Prabidhi Labs in Nepal, 2022–2024.
 BE in Information Technology, Everest Engineering College, Pokhara University.
@@ -99,7 +99,7 @@ BE in Information Technology, Everest Engineering College, Pokhara University.
 ### Now
 
 - **Building** — the [Nepal–Oita Community](https://nepaloitacommunity.com) website
-- **At work** — municipal 商品券 (*shōhinken*) gift-voucher platforms at OEC
+- **At work** — web platforms for public-sector and enterprise clients
 - **Learning** — AWS in depth: which service to reach for, and how to deploy onto
   it properly. Terraform and Docker past the basics.
 
