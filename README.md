@@ -22,6 +22,7 @@
 
 | | |
 |:--|:--|
+| **[SalaryKati](https://www.salarykati.com)** | Real salaries and company reviews for Nepalis in Nepal and abroad, for every job and industry, in English and Nepali. Anonymous by design: the database can't be read from the browser, averages need at least three people and are rounded, and IP addresses are never stored. Nuxt 4 and Supabase. → **[salarykati.com](https://www.salarykati.com)** · **[case study](https://sureshsurkheti.com/case-salarykati)** |
 | **[Nihongo Mock](https://nihongomock.com)** | Free JLPT mock exams from N5 to N1 — 118 timed papers, every one written for the site, marked automatically, with listening read aloud by your own device. Every question opens its own vocabulary with furigana, and all twelve languages get their own URL and hreflang. → **[nihongomock.com](https://nihongomock.com)** · **[case study](https://sureshsurkheti.com/case-nihongo)** |
 | **[nepal-oita-community](https://github.com/SureshSurkheti/nepal-oita-community)** | Live community site for Nepalis in Oita and Beppu — events, stories, photographs and a member area. Next.js and Supabase, with every privacy rule enforced by PostgreSQL policies rather than by the app. → **[nepaloitacommunity.com](https://nepaloitacommunity.com)** · **[case study](https://sureshsurkheti.com/case-nepal)** |
 | **[portfolio](https://sureshsurkheti.com)** | My personal site. No framework and no build step — hand-written HTML, CSS and vanilla JavaScript, with every animation done in the browser rather than pulled from a library. → **[sureshsurkheti.com](https://sureshsurkheti.com)** |
@@ -98,7 +99,7 @@ BE in Information Technology, Everest Engineering College, Pokhara University.
 
 ### Now
 
-- **Building** — the [Nepal–Oita Community](https://nepaloitacommunity.com) website
+- **Building** — [SalaryKati](https://www.salarykati.com), real salaries and company reviews for Nepalis
 - **At work** — web platforms for public-sector and enterprise clients
 - **Learning** — AWS in depth: which service to reach for, and how to deploy onto
   it properly. Terraform and Docker past the basics.
