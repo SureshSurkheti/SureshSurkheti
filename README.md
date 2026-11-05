@@ -88,8 +88,8 @@
 
 ### Day job
 
-Contract software engineer in Oita, Japan — 12+ projects for public-sector and enterprise
-clients: GIS portals, asset management, citizen apps and transaction platforms. Client work is
+Contract software engineer in Oita, Japan — 10 projects for local governments and companies:
+GIS portals, employee and equipment management, citizen apps and transaction platforms. Client work is
 private, so none of it is here.
 
 Before Japan: Django and React Native at Prabidhi Labs in Nepal, 2022–2024.
